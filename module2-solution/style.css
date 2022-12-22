@@ -17,9 +17,10 @@ body{
 h1 {
   margin-bottom: 15px;
   text-align: center;
-  color: #ff4532;
+  color: #ffffff;
   font-size: 50px;
 }
+/*ff4532*/
 
 .info{
   border: 5px solid black;
@@ -30,7 +31,7 @@ h1 {
   font-size: 20px;
   padding: 2%;
   padding-top: 55px;
-  background-color: gray;
+  background-color: blue;
 }
 
 #chicken{
