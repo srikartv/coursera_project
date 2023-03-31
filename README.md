@@ -8,6 +8,9 @@ Module 2
 <a href="module3-solution/index.html">Module-3 assignment</a><br></div>
 <div>Module 4
 <a href="module4-solution/index.html">Module-4 assignment</a><br></div>
+<div>Module 5
+<a href="module5-solution/index.html">Module-5 assignment</a><br></div>
 <a href="https://srikartv.github.io/coursera_project/module2-solution/index.html">Mod2_solution</a><br>
 <a href="https://srikartv.github.io/coursera_project/module3-solution/index.html">Mod3_solution</a><br>
 <a href="https://srikartv.github.io/coursera_project/module4-solution/index.html">Mod4_solution</a><br>
+<a href="https://srikartv.github.io/coursera_project/module5-solution/index.html">Mod5_solution</a><br>
